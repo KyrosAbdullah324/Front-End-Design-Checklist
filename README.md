@@ -10,7 +10,7 @@
 ## Table of Contents     
 * **[1. Design requirements](#1---design-requirements)**
 	* [1.1 Grid system](#11---grid-system)
-	* [1.2 Colors](#12---colors)
+	* [1.2 Colors](#12---colors)   
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Links and navigation](#14---links-and-navigation)
 	* [1.5 Images / Icons](#15---images--icons)
